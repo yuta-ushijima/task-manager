@@ -14,6 +14,10 @@
   background: lightgoldenrodyellow;
 }
 
+#editor {
+  margin-top: 1em;
+}
+
 .description {
   color: slategray;
   font-style: italic;
